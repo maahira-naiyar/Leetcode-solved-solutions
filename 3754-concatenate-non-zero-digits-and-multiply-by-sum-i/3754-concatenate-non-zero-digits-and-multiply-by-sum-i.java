@@ -1,16 +1,30 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String s = Integer.toString(n);
-        long x = 0;
-        long digitSum = 0;
-        
-        for (int i = 0; i < s.length(); i++) {
-            int digit = s.charAt(i) - '0';
+        int[] digits = new int[10];
+        int count = 0;
+        int temp = n;
+        int sum = 0;
+
+        while (temp > 0) {
+            int digit = temp % 10;
+
             if (digit != 0) {
-                digitSum += digit;
-                x = x * 10 + digit;
+                digits[count++] = digit;
+                sum += digit;
             }
+
+            temp /= 10;
         }
-        return x * digitSum;
+
+        if (count == 0)
+            return 0;
+
+        long x = 0;
+
+        for (int i = count - 1; i >= 0; i--) {
+            x = x * 10 + digits[i];
+        }
+
+        return x * sum;
     }
 }
