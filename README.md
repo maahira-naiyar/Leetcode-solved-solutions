@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0058-length-of-last-word) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -20,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -46,6 +48,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0043-multiply-strings) |
 | [3612-process-string-with-special-operations-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
