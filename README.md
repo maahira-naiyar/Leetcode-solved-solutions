@@ -31,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -54,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
