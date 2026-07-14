@@ -22,6 +22,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -29,6 +30,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
@@ -51,8 +53,13 @@
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
