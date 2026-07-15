@@ -60,6 +60,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
