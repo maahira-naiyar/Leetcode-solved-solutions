@@ -64,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -96,4 +97,5 @@
 | ------- |
 | [0078-subsets](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
