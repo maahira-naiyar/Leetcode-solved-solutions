@@ -64,11 +64,13 @@
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 ## Number Theory
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
