@@ -12,12 +12,14 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0058-length-of-last-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
