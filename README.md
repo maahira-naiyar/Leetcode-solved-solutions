@@ -27,6 +27,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
