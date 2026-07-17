@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String
@@ -58,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0078-subsets) |
