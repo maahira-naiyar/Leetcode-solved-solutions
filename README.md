@@ -29,6 +29,7 @@
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -71,6 +72,7 @@
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
