@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
@@ -117,5 +118,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
