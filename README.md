@@ -132,4 +132,12 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
