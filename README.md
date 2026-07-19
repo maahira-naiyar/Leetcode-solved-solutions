@@ -14,6 +14,7 @@
 | [0043-multiply-strings](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0058-length-of-last-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -122,4 +124,12 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0162-find-peak-element) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
