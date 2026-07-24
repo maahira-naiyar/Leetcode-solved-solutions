@@ -87,6 +87,7 @@
 | [0162-find-peak-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@
 | [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0242-valid-anagram) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
