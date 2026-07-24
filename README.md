@@ -34,6 +34,7 @@
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -81,6 +82,7 @@
 | [0090-subsets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
@@ -93,6 +95,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1260-shift-2d-grid) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
