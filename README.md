@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String
@@ -24,6 +25,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -48,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +80,7 @@
 | [0027-remove-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0078-subsets) |
@@ -160,6 +164,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
