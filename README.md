@@ -89,6 +89,7 @@
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,6 +104,7 @@
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Number Theory
@@ -118,12 +120,14 @@
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,6 +146,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,4 +182,16 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
