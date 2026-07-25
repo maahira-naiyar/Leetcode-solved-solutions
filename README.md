@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
@@ -90,6 +91,7 @@
 | [0136-single-number](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -157,6 +159,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
