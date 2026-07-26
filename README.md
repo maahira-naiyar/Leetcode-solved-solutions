@@ -180,10 +180,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
 ## Matrix
 |  |
