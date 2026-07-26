@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String
@@ -15,6 +16,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
