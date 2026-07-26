@@ -42,6 +42,7 @@
 | [0069-sqrtx](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
 | [0400-nth-digit](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +73,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1291-sequential-digits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
@@ -98,6 +100,7 @@
 | [0162-find-peak-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0283-move-zeroes) |
@@ -123,6 +126,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
