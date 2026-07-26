@@ -43,6 +43,7 @@
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
+| [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -100,6 +101,7 @@
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -131,6 +133,7 @@
 | [0217-contains-duplicate](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
