@@ -26,6 +26,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -52,6 +53,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -131,6 +133,7 @@
 | [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,4 +239,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
