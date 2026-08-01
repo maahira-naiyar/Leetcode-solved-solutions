@@ -49,6 +49,7 @@
 | [0204-count-primes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
 | [0400-nth-digit](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0400-nth-digit) |
+| [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -67,6 +68,7 @@
 | [0053-maximum-subarray](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
@@ -114,6 +116,7 @@
 | [0238-product-of-array-except-self](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1260-shift-2d-grid) |
@@ -212,6 +215,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -246,4 +250,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
