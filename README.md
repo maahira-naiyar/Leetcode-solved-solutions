@@ -51,6 +51,7 @@
 | [0400-nth-digit](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -69,6 +70,7 @@
 | [0070-climbing-stairs](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
@@ -118,6 +120,7 @@
 | [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0877-stone-game) |
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -254,4 +257,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
