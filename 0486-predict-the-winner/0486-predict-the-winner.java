@@ -1,21 +1,16 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-        int n = nums.length;
-        if (n <= 1) return true; 
-
-        int[] dp = new int[n];
-        for (int i = 0; i < n; i++) {
-            dp[i] = nums[i]; 
-        }
- 
-        for (int length = 2; length <= n; length++) {
-            for (int i = 0; i <= n - length; i++) {
-                int j = i + length - 1;
-
-                dp[i] = Math.max(nums[i] - dp[i + 1], nums[j] - dp[i]);
-            }
-        }
- 
-        return dp[0] >= 0;
+        return getNetScore(nums, 0, nums.length - 1) >= 0;
+    }
+    
+    private int getNetScore(int[] nums, int i, int j) {
+        if (i == j) 
+            return nums[i];
+    
+        
+        int pickLeft = nums[i] - getNetScore(nums, i + 1, j);
+        int pickRight = nums[j] - getNetScore(nums, i, j - 1);
+        
+        return Math.max(pickLeft, pickRight);
     }
 }
