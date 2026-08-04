@@ -132,6 +132,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
