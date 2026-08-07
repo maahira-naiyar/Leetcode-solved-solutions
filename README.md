@@ -26,6 +26,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -57,6 +58,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -155,6 +157,7 @@
 | [0204-count-primes](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
@@ -182,6 +185,7 @@
 | [0039-combination-sum](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0090-subsets-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +214,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
