@@ -25,6 +25,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -142,6 +143,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -326,4 +328,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
