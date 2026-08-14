@@ -27,6 +27,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -163,6 +164,7 @@
 | [1224-maximum-equal-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1224-maximum-equal-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3731-find-missing-elements) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
