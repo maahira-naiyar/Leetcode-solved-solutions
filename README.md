@@ -341,4 +341,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
