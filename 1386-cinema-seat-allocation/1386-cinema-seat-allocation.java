@@ -5,7 +5,7 @@ class Solution {
         Map<Integer, boolean[]> map = new HashMap<>();
         int row;
         for (int[] data : s) {
-            row = data[0] + 1;
+            row = data[0] - 1;
             if (!map.containsKey(row)) {
                 map.put(row, new boolean[10]);
             }
