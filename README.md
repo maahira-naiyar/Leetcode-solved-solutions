@@ -36,6 +36,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -113,6 +114,7 @@
 | [1291-sequential-digits](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
@@ -244,6 +247,7 @@
 | [0169-majority-element](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +267,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
