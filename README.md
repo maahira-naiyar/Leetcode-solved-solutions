@@ -27,6 +27,7 @@
 | [1927-sum-game](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0219-contains-duplicate-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
