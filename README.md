@@ -393,4 +393,5 @@
 | [0184-department-highest-salary](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
