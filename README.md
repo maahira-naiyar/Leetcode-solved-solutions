@@ -395,4 +395,5 @@
 | [0595-big-countries](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1148-article-views-i) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/maahira-naiyar/Leetcode-solved-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
